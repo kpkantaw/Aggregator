@@ -1,9 +1,5 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////
 // Aggregator- A web feed parser
-// Master's Project, MS CE
-// Developed By: Kunal Kantawala
-// SUID: 291269034
-// Contact: 201.707.4446
 // Email: kpkantaw@syr.edu
 // Programming Language Used: ObjectiveC
 // Tools: Xcode, available at http://developer.apple.com/technologies/tools/xcode.html
